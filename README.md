@@ -1,3 +1,3 @@
 # employeSystem
 
-![alt text](https://github.com/rile037/employeSystem/blob/main/dokument.png?raw=true =100x200)
+![alt text](https://github.com/rile037/employeSystem/blob/main/dokument.png =100x200)
